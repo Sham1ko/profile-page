@@ -1,5 +1,8 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main>Main part</main>
+  <main>
+    <p>Sham</p>
+    <p>Шам</p>
+  </main>
 </template>

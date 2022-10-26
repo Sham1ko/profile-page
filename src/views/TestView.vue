@@ -1,9 +1,9 @@
+<script lang="ts"></script>
+
 <template>
-  <div class="about">
+  <main>
     <h1>Hello World! yes</h1>
-  </div>
+  </main>
 </template>
 
 <style></style>
-
-<script lang="ts"></script>
