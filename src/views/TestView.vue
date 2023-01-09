@@ -1,5 +1,3 @@
-<script lang="ts"></script>
-
 <template>
   <main>
     <h1>Hello World! yes</h1>
