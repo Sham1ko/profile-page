@@ -9,8 +9,7 @@
         data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent"
         aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
+        aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -30,6 +29,17 @@
   </nav>
 </template>
 
-<script lang="ts"></script>
-
+<!-- <template>
+  <ul class="nav">
+    <li class="nav-item">
+      <a class="nav-link" href="/">Main</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/about">about</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/test">test</a>
+    </li>
+  </ul>
+</template> -->
 <style></style>
